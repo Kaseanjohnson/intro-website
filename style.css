@@ -1,0 +1,16 @@
+
+Header {
+    color:white;
+background-color: navy; }
+
+button{
+    
+    background-color: navy; 
+    color:whitesmoke;
+    border-style: none; 
+    border-radius: 10px;}
+
+footer{
+    background-color: navy; 
+    color: white;
+}
